@@ -1,0 +1,2 @@
+# Ada Array Access Bug
+This repository demonstrates a common error in Ada: accessing array elements outside of the declared bounds. The `bug.ada` file contains code that incorrectly accesses elements, potentially leading to runtime errors. The solution, `bugSolution.ada`, demonstrates how to correctly access array elements in Ada.  This example highlights the importance of careful index management when working with arrays in Ada to prevent common runtime errors.
